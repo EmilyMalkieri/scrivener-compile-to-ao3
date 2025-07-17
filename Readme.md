@@ -10,6 +10,7 @@ Compiling your fic with this compile format will create a text file (.txt) conta
     - If you wrote a regular paragraph in Scrivener (only pressed enter once), you'll get a regular paragraph on AO3.
     - If you wrote a paragraph break with a blank line between, you'll get a blank line between on AO3.
 - Automatic `<hr />` scene breaks between files. This is a proper horizontal line that should work well with screen readers.
+- "Ruby" text like this: <ruby>茶 <rp>(</rp><rt>chá</rt><rp>)</rp></ruby> by putting 茶 in a "ruby" character style and "chá" in a "ruby-text" character style immediately behind it.
 - Blockquotes, italics, and bold text.
 
 ## Use this in five simple steps
