@@ -10,56 +10,56 @@
             <RTFBookmark>Yes</RTFBookmark>
             <BlankLineSeparator SkipStyles="No">&lt;br /&gt;</BlankLineSeparator>
             <Formatting Override="Yes" EbooksUseBaseFormatting="Yes">
-                <Title><![CDATA[{\rtf1\ansi\ansicpg1252\cocoartf2820
+                <Title><![CDATA[{\rtf1\ansi\ansicpg1252\cocoartf2822
 \cocoatextscaling0\cocoaplatform0{\fonttbl\f0\froman\fcharset0 Palatino-Roman;}
 {\colortbl;\red255\green255\blue255;}
 {\*\expandedcolortbl;;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
 
 \f0\fs26 \cf0 Attributes}]]></Title>
-                <TitlePrefix><![CDATA[{\rtf1\ansi\ansicpg1252\cocoartf2820
+                <TitlePrefix><![CDATA[{\rtf1\ansi\ansicpg1252\cocoartf2822
 \cocoatextscaling0\cocoaplatform0{\fonttbl\f0\froman\fcharset0 Palatino-Roman;}
 {\colortbl;\red255\green255\blue255;}
 {\*\expandedcolortbl;;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
 
 \f0\fs26 \cf0 Attributes}]]></TitlePrefix>
-                <TitleSuffix><![CDATA[{\rtf1\ansi\ansicpg1252\cocoartf2820
+                <TitleSuffix><![CDATA[{\rtf1\ansi\ansicpg1252\cocoartf2822
 \cocoatextscaling0\cocoaplatform0{\fonttbl\f0\froman\fcharset0 Palatino-Roman;}
 {\colortbl;\red255\green255\blue255;}
 {\*\expandedcolortbl;;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
 
 \f0\fs26 \cf0 Attributes}]]></TitleSuffix>
-                <MetaData><![CDATA[{\rtf1\ansi\ansicpg1252\cocoartf2820
+                <MetaData><![CDATA[{\rtf1\ansi\ansicpg1252\cocoartf2822
 \cocoatextscaling0\cocoaplatform0{\fonttbl\f0\froman\fcharset0 Palatino-Roman;}
 {\colortbl;\red255\green255\blue255;}
 {\*\expandedcolortbl;;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
 
 \f0\fs26 \cf0 Attributes}]]></MetaData>
-                <Synopsis><![CDATA[{\rtf1\ansi\ansicpg1252\cocoartf2820
+                <Synopsis><![CDATA[{\rtf1\ansi\ansicpg1252\cocoartf2822
 \cocoatextscaling0\cocoaplatform0{\fonttbl\f0\froman\fcharset0 Palatino-Roman;}
 {\colortbl;\red255\green255\blue255;}
 {\*\expandedcolortbl;;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
 
 \f0\fs26 \cf0 Attributes}]]></Synopsis>
-                <Notes><![CDATA[{\rtf1\ansi\ansicpg1252\cocoartf2820
+                <Notes><![CDATA[{\rtf1\ansi\ansicpg1252\cocoartf2822
 \cocoatextscaling0\cocoaplatform0{\fonttbl\f0\froman\fcharset0 Palatino-Roman;}
 {\colortbl;\red255\green255\blue255;}
 {\*\expandedcolortbl;;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
 
 \f0\fs26 \cf0 Attributes}]]></Notes>
-                <Text><![CDATA[[STYLES]F84C6A96-6FF2-4926-B25B-C5D788C91776[/STYLES]{\rtf1\ansi\ansicpg1252\cocoartf2820
+                <Text><![CDATA[[STYLES]F84C6A96-6FF2-4926-B25B-C5D788C91776[/STYLES]{\rtf1\ansi\ansicpg1252\cocoartf2822
 \cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
 {\*\expandedcolortbl;;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
 
 \f0\fs24 \cf0 <$Scr_Ps::0>Attributes<!$Scr_Ps::0>}]]></Text>
-                <Subtitles><![CDATA[{\rtf1\ansi\ansicpg1252\cocoartf2820
+                <Subtitles><![CDATA[{\rtf1\ansi\ansicpg1252\cocoartf2822
 \cocoatextscaling0\cocoaplatform0{\fonttbl\f0\froman\fcharset0 Palatino-Italic;}
 {\colortbl;\red255\green255\blue255;}
 {\*\expandedcolortbl;;}
@@ -95,7 +95,7 @@
     </SeparatorSettings>
     <Styles>
         <Style Name="Regular Text" ID="F84C6A96-6FF2-4926-B25B-C5D788C91776" Type="Para" FontChange="Face+Size">
-            <Format><![CDATA[{\rtf1\ansi\ansicpg1252\cocoartf2820
+            <Format><![CDATA[{\rtf1\ansi\ansicpg1252\cocoartf2822
 \cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
 {\*\expandedcolortbl;;}
@@ -106,7 +106,7 @@
             <ParaSuffix><![CDATA[</p>]]></ParaSuffix>
         </Style>
         <Style Name="Emphasis" ID="104DF700-EE23-443B-B0A7-CCB1E7F73861" Type="Char">
-            <Format><![CDATA[{\rtf1\ansi\ansicpg1252\cocoartf2820
+            <Format><![CDATA[{\rtf1\ansi\ansicpg1252\cocoartf2822
 \cocoatextscaling0\cocoaplatform0{\fonttbl\f0\froman\fcharset0 Palatino-Italic;}
 {\colortbl;\red255\green255\blue255;}
 {\*\expandedcolortbl;;}
@@ -117,7 +117,7 @@
             <Suffix><![CDATA[</em>]]></Suffix>
         </Style>
         <Style Name="Bold" ID="BCEAEEE2-8340-4308-88EB-0D90CACFB700" Type="Char">
-            <Format><![CDATA[{\rtf1\ansi\ansicpg1252\cocoartf2820
+            <Format><![CDATA[{\rtf1\ansi\ansicpg1252\cocoartf2822
 \cocoatextscaling0\cocoaplatform0{\fonttbl\f0\froman\fcharset0 Palatino-Bold;}
 {\colortbl;\red255\green255\blue255;}
 {\*\expandedcolortbl;;}
@@ -128,7 +128,7 @@
             <Suffix><![CDATA[</strong>]]></Suffix>
         </Style>
         <Style Name="Block Quote" ID="F869A191-F77B-4B92-989A-6A553225A0F7" Type="Para" FontChange="Size">
-            <Format><![CDATA[{\rtf1\ansi\ansicpg1252\cocoartf2820
+            <Format><![CDATA[{\rtf1\ansi\ansicpg1252\cocoartf2822
 \cocoatextscaling0\cocoaplatform0{\fonttbl\f0\froman\fcharset0 Palatino-Roman;}
 {\colortbl;\red255\green255\blue255;}
 {\*\expandedcolortbl;;}
@@ -139,6 +139,27 @@
             <Suffix><![CDATA[</blockquote>]]></Suffix>
             <ParaPrefix><![CDATA[<p>]]></ParaPrefix>
             <ParaSuffix><![CDATA[</p>]]></ParaSuffix>
+        </Style>
+        <Style Name="ruby" ID="6B2B1DB2-02E3-4C83-B6C1-B3A045B1DCCC" Type="Char">
+            <Format><![CDATA[{\rtf1\ansi\ansicpg1252\cocoartf2822
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fnil\fcharset134 STSongti-SC-Regular;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f0\fs26 \cf0 Attributes}]]></Format>
+            <Prefix><![CDATA[<ruby>]]></Prefix>
+        </Style>
+        <Style Name="ruby-text" ID="43C8AB4F-2799-49ED-A062-7AB10672485F" Type="Char">
+            <Format><![CDATA[{\rtf1\ansi\ansicpg1252\cocoartf2822
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fnil\fcharset134 STSongti-SC-Regular;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f0\fs26 \cf0 Attributes}]]></Format>
+            <Prefix><![CDATA[ <rp>(</rp><rt>]]></Prefix>
+            <Suffix><![CDATA[</rt><rp>)</rp></ruby>]]></Suffix>
         </Style>
     </Styles>
     <TitleLinks>
@@ -270,7 +291,7 @@
         <LaTeXDocumentClass>Memoir</LaTeXDocumentClass>
     </MMD>
     <EBookSettings>
-        <BaseFormat><![CDATA[{\rtf1\ansi\ansicpg1252\cocoartf2820
+        <BaseFormat><![CDATA[{\rtf1\ansi\ansicpg1252\cocoartf2822
 \cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
 {\*\expandedcolortbl;;}
