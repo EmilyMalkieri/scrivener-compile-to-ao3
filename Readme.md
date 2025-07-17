@@ -17,7 +17,10 @@ Compiling your fic with this compile format will create a text file (.txt) conta
 1. Install this compile format.
 
     - Manual install (all platforms): Download the .scrformat file and import it in Scrivener's compile dialog via "..." → "Import Format..."
-    - Automatic install via homebrew (Mac): `brew install EmilyMalkieri/tap/scrivener-compile-to-ao3`
+    - Automatic install via homebrew (Mac):
+      ```bash
+      brew install EmilyMalkieri/tap/scrivener-compile-to-ao3
+      ```
 
 2. Select this format in your compile dialog. First at the top of the screen select "Compile for: Plain Text (.txt)", then on the left select "AO3 Fanfic (for HTML editor)".
 
