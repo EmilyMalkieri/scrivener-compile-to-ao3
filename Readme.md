@@ -1,8 +1,10 @@
 # AO3 Compile Format
 
-Custom Scrivener compile format for the AO3 HTML editor.
+Custom Scrivener compile formats for your fanfic.
 
-Compiling your fic with this compile format will create a text file (.txt) containing HTML code that will play well with the AO3 HTML editor. Simply open the file in your text editor of choice (simple ones like Notepad, TextEdit, etc. not Word) and copy-paste the contents into the AO3 HTML editor.
+Compiling your fic with the "AO3 Fanfic (for HTML editor)" compile format will create a text file (.txt) containing HTML code that will play well with the AO3 HTML editor. Simply open the file in your text editor of choice (simple ones like Notepad, TextEdit, etc. not Word) and copy-paste the contents into the AO3 HTML editor.
+
+There's also a "Fanfic Manuscript (Times)" compile format based on the default "Manusript (Times)" format, for when you want to export your work (or individual chapters) as a pdf for proofreading or sending to friends. This includes your overview summaries below the chapter name and has a special section layout for prologues.
 
 ## Features
 
@@ -12,6 +14,7 @@ Compiling your fic with this compile format will create a text file (.txt) conta
 - Automatic `<hr />` scene breaks between files. This is a proper horizontal line that should work well with screen readers.
 - "Ruby" text like this: <ruby>茶 <rp>(</rp><rt>chá</rt><rp>)</rp></ruby> by putting 茶 in a "ruby" character style and "chá" in a "ruby-text" character style immediately behind it.
 - Blockquotes, italics, and bold text.
+
 
 ## Use this in five simple steps
 
@@ -30,4 +33,5 @@ Compiling your fic with this compile format will create a text file (.txt) conta
 4. Compile!
 
 5. Open the file and paste its contents into the AO3 HTML editor.
+
 
